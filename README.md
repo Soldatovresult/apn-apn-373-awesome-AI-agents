@@ -33,7 +33,7 @@ Developer tools for building AI agents.
 
 | Tool | Description | Category |
 |------|-------------|----------|
-| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local macOS CLI and stdio MCP payments with foreground owner approval for signing. | Payment infrastructure |
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local macOS CLI and stdio MCP payments with an owner-set x402 policy and terminal approval for direct transfers. | Payment infrastructure |
 | [LangSmith](https://smith.langchain.com) | Tracing and evaluation for LLM apps | Observability |
 | [LiteLLM](https://github.com/BerriAI/liteLLM) | Unified API for 100+ LLMs | Gateway |
 | [Ollama](https://github.com/ollama/ollama) | Run LLMs locally | Local Inference |
